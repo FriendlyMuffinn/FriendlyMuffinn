@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FriendlyMuffinn
+- 👀 I’m interested in games
+- 🌱 I’m currently learning PHP, C++, C#
